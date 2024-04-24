@@ -12,8 +12,4 @@ router.get("/read",readall);
 
 
 module.exports = router
-/**
- * @method: get
- * @access: public
- * @route: /api/user/
- */
+
